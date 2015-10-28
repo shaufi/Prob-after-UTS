@@ -1,0 +1,37 @@
+1. poisson
+2. oh yg no 2 multinomial
+jadi rumusnya
+(6!/2!1!3!). (2/9)^2.(1/6)^1.(11/18)^3
+3. hipergeometrik,
+tapi itu kan yg ditanya sekurang2nya 2 ya jadi bisa 2 atau 3, nah bisa pake
+p(x=2) =(3c2.22c5)/25c7 
+ditambah
+p(x=3)= (3c3.22c4)/(25c7)
+4. no 4 juga bisa hipergeometrik
+karna sekurang2nya 3 bisa x=3,x=4,x=5 dan x=6
+biar ga terlalu ribet pake complement aja,
+berarti komplemen nya x=0,1,2
+jadi p(x=0)= (6c0.19c6)/25c6
+p(x=1)=(6c1.19c5)/(25c6)
+p(x=2)=(6c2.19c6)/(25c6)
+ntar jumlahkan p(x=0,1,2)
+jadi p(x=3,4,5,6)=1-p(x=0,1,2)
+5. no. 5 apa ya, mirip geometrik tp ada jenis lain dr geometrik aku lupa namanya (tp bukan hipergeometrik)
+6. multinomial
+7. geometrik
+8. kayak peluang biasa ya, nama distribusinya apa ya/poisson
+9. kayak peluang biasa ya, nama distribusinya apa ya/poisson 
+10. binomial
+11. multinomial
+12. binomial
+13. multinomial (9!/3!1!2!3!)(0,3)^3.(0,4)^1.(0,2)^2.(0,1)^3
+14. itu kan peluang bunuh diri 3/50.000 ya berarti untk yg a nya tinggal complement nya ajakan 1-(3/5000) ya,
+nah yg b nya bisa pake binomialkan? tp yg no 14 b itu ntar angkanya gede bgt ya 2 dr 80.000 colonthree emoticon
+pangkatnya ntar gede colonthree emoticon
+15
+16. pascal
+17.binom
+18.binom
+19.hipergeo
+21.geometrik
+22.
